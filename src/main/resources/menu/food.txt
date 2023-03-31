@@ -1,0 +1,10 @@
+tuna
+chicken
+sandwitch
+pizza
+burger
+gyros
+lasagna
+pie
+apple
+banana
